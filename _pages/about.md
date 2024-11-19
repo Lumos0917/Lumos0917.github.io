@@ -13,13 +13,13 @@ I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) f
 
 Education
 ======
-# B.Sc in Artificial Intelligence (Southeasr University)
+## B.Sc in Artificial Intelligence (Southeasr University)
 2022.09 - 2026.06 (Expected)
 
 Internship
 ======
 
-# The Hong Kong University of Science and Technology (Guangzhou)
+## The Hong Kong University of Science and Technology (Guangzhou)
 
 Advised by [Prof. Hu](https://xuminghu.github.io)
 
