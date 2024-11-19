@@ -22,9 +22,11 @@ Internship
 
 **The Hong Kong University of Science and Technology (Guangzhou)**
 
-Advised by [Prof. Hu](https://xuminghu.github.io)
+2024.06 - 2024.09， Advised by [Prof. Hu](https://xuminghu.github.io)
 
-2024.06 - 2024.09
+**Westlake University**
+
+2024.11 - Present， Advised by Prof.Zhang
 
 Getting started
 ======
