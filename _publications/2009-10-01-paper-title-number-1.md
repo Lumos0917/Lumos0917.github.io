@@ -5,7 +5,6 @@ collection: publications
 category: conferences
 excerpt: 'A benchmark for relation hallucinations'
 date: 2024-8-18
-venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2408.09429'
 ---
 
