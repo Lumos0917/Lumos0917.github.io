@@ -14,6 +14,7 @@ I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) f
 Education
 ======
 **B.Sc in Artificial Intelligence (Southeasr University)**
+
 2022.09 - 2026.06 (Expected)
 
 Internship
