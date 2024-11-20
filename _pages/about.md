@@ -15,7 +15,7 @@ For intern experience, I jointed Multimodal Group which is supervised by [Prof.H
 
 News!
 ======
-1. **Apr 2024**🔥Our projects are funded by [Key Laboratory of New Generation Artificial Intelligence Technology & Its Interdisciplinary Applications (Southeast University), Ministry of Education, China](https://aiia.seu.edu.cn/main.htm)
+1. **Apr 2024**🔥Our projects **In context Learning in Large Visual Language Models** are funded by [Key Laboratory of New Generation Artificial Intelligence Technology & Its Interdisciplinary Applications (Southeast University), Ministry of Education, China](https://aiia.seu.edu.cn/main.htm)
 2. **Aug 2024**🔥We present Reefknot, a comprehensive benchmark for Relation Hallucination Evaluation in Multimodal Large Language Models
 3. **Oct 2024**🔥We present MemVR, a novel hallucination mitigation paradigm without needing external knowledge retrieval or additional fine-tuning. 
 4. **Oct 2024**🚀Source code of MemVR has been released! 
