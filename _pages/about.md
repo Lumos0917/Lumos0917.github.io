@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of CSE](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). My research interest includes Computer Vision, Multimodal Large Language Model, Machine Unlearning.
+I'm a third year undergraduate student from [School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). My research interest includes Computer Vision, Multimodal Large Language Model, Machine Unlearning.
 
-I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) from [School of CSE](https://ai.seu.edu.cn), Southeast University.
+I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) from [School of School of Artificial Intelligence](https://ai.seu.edu.cn), Southeast University.
 
 Education
 ======
