@@ -22,7 +22,7 @@ News!
 
 Education
 ======
-**B.Sc in Artificial Intelligence (Southeasr University)**
+**B.Sc in Artificial Intelligence (Southeast University)**
 
 2022.09 - 2026.06 (Expected)
 
