@@ -13,6 +13,12 @@ I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) f
 
 For intern experience, I jointed Multimodal Group which is supervised by [Prof.Hu](https://xuminghu.github.io) in HKUST (Guangzhou) from Jun.-Sept. 2024 as a intern. During this period, I mainly focused on **Hallucination in MLLM** and **Machine Unlearning**. Since November of this year, I have joined the AGI Lab at Westlake University, led by [Prof. Zhang](https://icoz69.github.io). In the future, I wiil focus on **Flow Matching** and **Diffusion Model**.
 
+News!
+======
+1. **[Aug 2024]**🔥We present Reefknot, a comprehensive benchmark for Relation Hallucination Evaluation in Multimodal Large Language Models
+2. 🔥We present MemVR, a novel hallucination mitigation paradigm without needing external knowledge retrieval or additional fine-tuning. 
+3. 🚀Source code of MemVR has been released! 
+
 Education
 ======
 **B.Sc in Artificial Intelligence (Southeasr University)**
@@ -38,11 +44,6 @@ Project
 
 <small>This project is funded by Key Laboratory of New Generation Artificial Intelligence Technology & Its Interdisciplinary Applications (Southeast University), Ministry of Education, China<small>
 
-News!
-======
-1. 🔥 We present Reefknot, a comprehensive benchmark for Relation Hallucination Evaluation in Multimodal Large Language Models
-2. 🔥 We present MemVR, a novel hallucination mitigation paradigm without needing external knowledge retrieval or additional fine-tuning. 
-3. 🚀 Source code of MemVR has been released! 
 
 For more info
 ------
