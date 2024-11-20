@@ -15,9 +15,9 @@ For intern experience, I jointed Multimodal Group which is supervised by [Prof.H
 
 News!
 ======
-1. **[Aug 2024]**🔥We present Reefknot, a comprehensive benchmark for Relation Hallucination Evaluation in Multimodal Large Language Models
-2. 🔥We present MemVR, a novel hallucination mitigation paradigm without needing external knowledge retrieval or additional fine-tuning. 
-3. 🚀Source code of MemVR has been released! 
+1. **Aug 2024**🔥We present Reefknot, a comprehensive benchmark for Relation Hallucination Evaluation in Multimodal Large Language Models
+2. **Oct 2024**🔥We present MemVR, a novel hallucination mitigation paradigm without needing external knowledge retrieval or additional fine-tuning. 
+3. **Oct 2024**🚀Source code of MemVR has been released! 
 
 Education
 ======
