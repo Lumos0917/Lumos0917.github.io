@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [School of Artificial Intelligence](
 
 I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) from [School of School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). During this period, I focused on ICL abilities in MLLM and on hallucination in MLLM.
 
-For intern experience, I jointed Multimodal Group which is supervised by Prof.Hu in HKUST (Guangzhou) from Jun.-Sept. 2024 as a intern. During this period, I mainly focused on Hallucination in MLLM and Machine Unlearning. Since November of this year, I have joined the AGI Lab at Westlake University, led by Prof. Zhang. In the future, I wiil focus on Flow Matching and Diffusion Model.
+For intern experience, I jointed Multimodal Group which is supervised by [Prof.Hu](https://xuminghu.github.io) in HKUST (Guangzhou) from Jun.-Sept. 2024 as a intern. During this period, I mainly focused on **Hallucination in MLLM** and **Machine Unlearning**. Since November of this year, I have joined the AGI Lab at Westlake University, led by [Prof. Zhang](https://icoz69.github.io). In the future, I wiil focus on **Flow Matching** and **Diffusion Model**.
 
 Education
 ======
@@ -24,11 +24,11 @@ Internship
 
 **The Hong Kong University of Science and Technology (Guangzhou)**
 
-2024.06 - 2024.09， Advised by [Prof. Hu](https://xuminghu.github.io)
+2024.06 - 2024.09 Advised by [Prof. Hu](https://xuminghu.github.io)
 
 **Westlake University**
 
-2024.11 - Present， Advised by Prof.Zhang
+2024.11 - Present Advised by [Prof.Zhang](https://icoz69.github.io)
 
 Getting started
 ======
